@@ -1,0 +1,1 @@
+export const addNameAction = text =>({ type: 'name', text });
