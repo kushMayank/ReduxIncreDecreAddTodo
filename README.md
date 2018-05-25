@@ -4,7 +4,7 @@ For beginners like me to learn the concepts in [Redux](https://github.com/reactj
 
 To run this example:
 
-1. [Download this repo](https://github.com/jackielii/simplest-redux-example/archive/master.zip) or `git clone https://github.com/jackielii/simplest-redux-example.git`
+1. [Download this repo](https://github.com/kushMayank/ReduxIncreDecreAddTodo/archive/master.zip) or `git clonehttps://github.com/kushMayank/ReduxIncreDecreAddTodo.git`
 2. From the repo folder run:  
    `npm install`
 3. `npm start`
@@ -12,4 +12,3 @@ To run this example:
 
 And also head over to http://redux.js.org/ for some great documentation.
 
-There is also a [webpack](https://github.com/jackielii/simplest-redux-example/tree/webpack) and an [ES5](https://github.com/jackielii/simplest-redux-example/tree/es5) example.
